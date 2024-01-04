@@ -1,0 +1,33 @@
+repo_name: EDM115/hugo
+report_id: bcc3300d9b37e5e6c761db6907280de3
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-04T15:04:45+00:00'
+requested_by: EDM115
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/EDM115/hugo/blob/master/bundle.min.js
+  detection_source: bundle.min.js
+  last_updated_by: EDM115
+  last_updated_on: 2023-08-28 08:57:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/EDM115/hugo
+  detection_source: Repo Metadata
